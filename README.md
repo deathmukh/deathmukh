@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Hi, I'm Ishani</h1>
 <h3 align="center">A passionate software developer from India, dipping my toes in all the technologies out there </h3>
 <br>
