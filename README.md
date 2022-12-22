@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from India, dipping my toes in all the technologies out there </h3>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif">
 
 
 - 🌱 I’m currently learning **MERN stack, DSA**
