@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif) -->
 <h1 align="center">Hi, I'm Ishani</h1>
-<h3 align="center">A passionate software developer from India, dipping my toes in all the technologies out there </h3>
+<h3 align="center">Hello, hi even </h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif">
