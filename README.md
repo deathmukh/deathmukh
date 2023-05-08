@@ -27,6 +27,6 @@
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=deathmukh&show_icons=true&locale=en&layout=compact" alt="deathmukh" /></p>
 
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=deathmukh&" alt="deathmukh" /></p>
+
 
 
