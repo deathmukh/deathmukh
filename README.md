@@ -7,7 +7,7 @@
   <a href="https://www.knowprogram.com/authors/ishani-deshmukh/">📚 Articles by Me</a>
 </p>
 
-<p align="center">Ask Me About: React, HTML, CSS, Bootstrap, Python</p>
+<p align="center">Ask Me About: Ask gpt to explain it to you like you are 5</p>
 
 
 <p align="center">🛠️ Check Out My Repositories Below! 🛠️</p>
